@@ -42,7 +42,7 @@ const StatefulForm = () => {
           onChange={handleEmailChange}
           className="border-2 mb-2"
           type="email"
-          name="email"
+          name="email" 
           id=""
         />
         <br />
