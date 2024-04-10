@@ -20,7 +20,7 @@ const HookForm = () => {
         <input {...emailState} className="border-2 mb-2" type="email" name="email" id="" />
         <br />
         <input className="border-2 mb-2" type="password" name="password" />
-        <br />
+        <br /> 
         <input type="submit" value="Submit" />
       </form>
         </div>
