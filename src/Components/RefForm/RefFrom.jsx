@@ -2,7 +2,7 @@ import { useEffect, useRef } from "react";
 
 const RefFrom = () => {
    
-    const nameRaf = useRef(null)
+    const nameRaf = useRef(null);
     const emailRaf = useRef(null);
     const passwordRaf =useRef(null);
 
